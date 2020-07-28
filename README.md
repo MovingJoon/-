@@ -1,6 +1,5 @@
 #Group studying of mathematics for deep-learning 
-
-교재 딥러닝을 위한 수학/아카이시 마사노리 지음/ 워키북스 
+##교재 딥러닝을 위한 수학/아카이시 마사노리 지음/ 워키북스 
 
 
 
