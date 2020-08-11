@@ -1,10 +1,11 @@
 # Group studying of mathematics for deep-learning 
-## 교재 딥러닝을 위한 수학/아카이시 마사노리 지음/ 워키북스 
+#### 교재 딥러닝을 위한 수학/아카이시 마사노리 지음/ 워키북스 
+<div>
+  <img width="200" src="https://user-images.githubusercontent.com/67411105/89865570-f2c34300-dbe8-11ea-83a3-e56c6a54ad47.jpg">
+</div>
 
 
-
-
-
+#### 목차
 ### Chapter 1 머신러닝 입문 / 2020.08.03
 
 ### Chapter 2 미분과 적분 / 2020.08.10
